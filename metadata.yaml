@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4865
     wikipedia: http://en.wikipedia.org/wiki/Eileen_Power
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39537#Medieval-English-Nunneries-c.-1275-to-1535
 gutenberg_issued: '2012-04-25'
 gutenberg_type: Text
 identifiers:
