@@ -1,0 +1,31 @@
+_repo: Medieval-English-Nunneries-c.-1275-to-1535_39537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Power, Eileen
+    alias: Power, Eileen Edna
+    birthdate: 1889
+    deathdate: 1940
+    gutenberg_agent_id: '4865'
+    url: http://www.gutenberg.org/2009/agents/4865
+    wikipedia: http://en.wikipedia.org/wiki/Eileen_Power
+description: ''
+gutenberg_issued: '2012-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39537'
+  lccn: '23008752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Cambridge Studies in Medieval Life and Thought
+subjects:
+- !lcsh 'Convents -- England'
+- !lcsh 'Monastic and religious life of women -- History'
+- !lcc 'BX'
+title: Medieval English Nunneries c. 1275 to 1535
+url: http://www.gutenberg.org/ebooks/39537
